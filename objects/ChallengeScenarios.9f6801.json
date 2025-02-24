@@ -15,12 +15,12 @@
   },
   "ContainedObjects_order": [
     "RelicsofthePast.0d6da1",
-    "RedTideRising.5302f2",
-    "ReadorDie.9e73fa",
-    "LaidtoRest.e2dd57",
-    "BytheBook.cc7eb3",
     "BadBlood.451eaa",
-    "AllorNothing.72ab92"
+    "RedTideRising.5302f2",
+    "AllorNothing.72ab92",
+    "ReadorDie.9e73fa",
+    "BytheBook.cc7eb3",
+    "LaidtoRest.e2dd57"
   ],
   "ContainedObjects_path": "ChallengeScenarios.9f6801",
   "CustomMesh": {
@@ -65,9 +65,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": -9,
-    "posY": 1.481,
-    "posZ": -91,
+    "posX": 26.5,
+    "posY": 1.482,
+    "posZ": -80.076,
     "rotX": 0,
     "rotY": 270,
     "rotZ": 0,
